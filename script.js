@@ -37,7 +37,7 @@ function shadeKeyBoard(letter, color) {
                 return
             }
 
-            elem.style.backgroundColor = 'red'
+            elem.style.backgroundColor = color
             break
         }
     }
