@@ -1,3 +1,7 @@
+@font-face {
+  font-family: schillerantiquabold-medium;
+  src: url(SchillerAntiquaBold.ttf);
+}
 h1 {
  text-align: center;
 }
