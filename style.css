@@ -3,6 +3,7 @@
   src: url(SchillerAntiquaBold.ttf);
 }
 h1 {
+  font-size: large;
  text-align: center;
 }
 
