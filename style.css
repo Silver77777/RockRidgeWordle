@@ -1,6 +1,7 @@
 @font-face {
   font-family: schillerantiquabold-medium;
   src: url(SchillerAntiquaBold.ttf);
+  src: url(SchillerAntiquaBold.woff2);
 }
 h1 {
   font-size: x-large;
